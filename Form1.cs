@@ -1,6 +1,6 @@
 ﻿/*
 
-    5_modem signal analysis software.   Streambox Inc, 2016, Version 0.1
+    5_modem signal analysis software.    2016, Version 0.1
 
         This C# software is developed for testing 5_modem_board voltage signals(include: 
      Vbus, 5V and 3.3V power, 7_port_USB chip enable_signals, and modem enable_signals). 
